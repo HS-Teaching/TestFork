@@ -1,5 +1,8 @@
 # TestFork
 
+Development Software: Unity version: 2018.2.8f1, Visual Studio 2017 (v 15.4.5)
+
+
 Social Coding: You fork, a personal copy of someone's repository either to make some changes to the project (pull request) or 
 as a starting point for a project for your own. 
 
