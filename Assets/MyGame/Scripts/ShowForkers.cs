@@ -6,7 +6,7 @@ public class ShowForkers : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        //copy the line Debug.Log("x was here!"); and substitude the x with your name.
+        //copy the line Debug.Log("x was here!"); and substitute the x with your name.
         Debug.Log("smeerws was here");
         Debug.Log("x was here!");
 		
